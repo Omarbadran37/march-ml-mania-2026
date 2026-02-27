@@ -25,8 +25,8 @@ Engineers, data scientists, Python or R coders who want to go deep. Use an AI co
 |---|---|---|
 | Participant Guide | Full walkthrough for all 3 paths — prompts, strategy, and submission steps | [PDF](docs/March_ML_Mania_Participant_Guide.pdf) · [DOCX](docs/March_ML_Mania_Participant_Guide.docx) |
 | One-Pager | Quick-start reference card — paths, Brier Score benchmarks, and first steps | [PDF](docs/March_ML_Mania_2026_One_Pager.pdf) · [DOCX](docs/March_ML_Mania_2026_One_Pager.docx) |
-| Hackathon Playbook | Deep-dive on prediction strategies, model building, and calibration | [PDF](docs/March_ML_Mania_Hackathon_Playbook.pdf) · [DOCX](docs/March_ML_Mania_Hackathon_Playbook.docx) |
-| Organizer Plan | Week-by-week timeline, Slack rhythm, and facilitation guide for event organizers | [PDF](docs/March_ML_Mania_2026_Organizer_Plan.pdf) · [DOCX](docs/March_ML_Mania_2026_Organizer_Plan.docx) |
+| March-ml-mania-skill| A Skill to guide you through the March ML Mania competition| [Skill.MD](march-ml-mania-guide) |
+
 
 ---
 
